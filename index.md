@@ -1,3 +1,8 @@
+#Hello World
+##this is obviously under construction
+[Simon Schlieber](https://www.schlieber.net)
+[Simon Schlieber on Twitter](https://www.twitter.com/schlieber)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/schlieber/103/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
