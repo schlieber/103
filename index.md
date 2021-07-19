@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/schlieber/103/edit/gh-page
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-##Simon's Links
+## Simon's Links
 [Simon Schlieber personal Site](https://schlieber.net)
 
 [Simon Schlieber on Twitter](https://www.twitter.com/schlieber)
